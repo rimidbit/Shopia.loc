@@ -88,3 +88,20 @@ h1 {
 
 template {
 }
+
+.headers-h2 {
+    font-size: 2.4em;
+    text-align: center;
+    font-family: 'Playfair Display';
+    margin-bottom: 80px;
+}
+
+.headers-h2::before{
+    content: url('../../build/img/header-decor.png');
+    margin-right: 80px;
+}
+
+.headers-h2::after{
+    content: url('../../build/img/header-decor.png');
+    margin-left: 80px;
+}

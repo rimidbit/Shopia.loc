@@ -49,6 +49,14 @@ const cms = {
     libs: 'build/assets/libs/',
     fonts: 'build/assets/fonts/'
   },
+  docs: {
+      html: 'docs/',
+      css: 'docs/assets/css/',
+      js: 'docs/assets/js/',
+      img: 'docs/assets/',
+      libs: 'docs/assets/libs/',
+      fonts: 'docs/assets/fonts/'
+  },  
   wordpress: {
     html: 'build/',
     css: 'build/css/',

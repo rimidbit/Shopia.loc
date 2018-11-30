@@ -41,3 +41,12 @@
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfairdisplay-bolditalic.woff2') format('woff2'),
+    url('../fonts/playfairdisplay-bolditalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}

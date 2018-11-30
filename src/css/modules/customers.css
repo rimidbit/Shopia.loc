@@ -1,0 +1,43 @@
+/*brand*/
+
+.brand-img{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 130px;
+}
+
+/*customers*/
+
+.customers-block{
+    display: flex;
+    justify-content: space-between;
+    background-color: #d9be8f;
+}
+
+.customers-blocks:after{
+    content: "";
+    height: 100%;
+    width: 100vw;
+    display: block;
+    background-color: inherit;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    margin: auto;
+    left: -50vw;
+    right: -50vw;
+}
+
+.customers-woman{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.customers-man{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.customers-right-text{
+    order: 1;
+}
