@@ -1,0 +1,29 @@
+.collection-items{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid #eaeaea;
+    padding-left: 20px;
+}
+
+.collection-item{
+    flex-basis: calc(25% - 10px);
+    padding: 20px;
+    position: relative;
+}
+
+.collection-item img{
+    width: 300px;
+}
+
+.collection-item__button{
+    position: absolute;
+    bottom: 0;
+}
+
+.collection-item a{
+    position: absolute;
+    color: #ffffff;
+    bottom: 0;
+    z-index: 1;
+    font-size: 2em;
+}
