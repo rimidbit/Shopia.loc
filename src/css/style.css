@@ -3,6 +3,7 @@
 @import "modules/vars.css";
 @import "modules/fonts.css";
 @import "modules/base.css";
+@import "modules/header.css";
 @import "modules/collection.css";
 @import "modules/customers.css";
 @import "modules/foot.css";
