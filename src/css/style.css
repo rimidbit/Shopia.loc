@@ -1,9 +1,12 @@
 @charset "UTF-8";
 @import 'modules/reset.css';
 @import "modules/vars.css";
+@import 'modules/slick.css';
+@import 'modules/slick-theme.css';
 @import "modules/fonts.css";
 @import "modules/base.css";
 @import "modules/header.css";
 @import "modules/collection.css";
 @import "modules/customers.css";
 @import "modules/foot.css";
+@import "modules/carousel.css";
