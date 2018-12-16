@@ -84,4 +84,10 @@
     color: #ffffff;
 }
 
+@media screen and (max-width: 1200px){
+    .header__top-line__phone{
+        padding-left: 10px;
+    }
+}
+
 /*header end*/

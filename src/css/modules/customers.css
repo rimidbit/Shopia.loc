@@ -85,8 +85,7 @@
 }
 
 .customers__text-men{
-    display: flex;
-    justify-content: flex-end;
+    text-align: right;
 }
 
 @media screen and (max-width: 1025px) {
