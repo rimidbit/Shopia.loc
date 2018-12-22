@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'lato';
-    src: url('../../build/fonts/lato/latoregular.woff2') format('woff2'),
-    url('../../build/fonts/lato/latoregular.woff') format('woff');
+    src: url('../fonts/lato/latoregular.woff2') format('woff2'),
+    url('../fonts/lato/latoregular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -27,16 +27,16 @@
 
 @font-face {
     font-family: 'lato';
-    src: url('../../build/fonts/lato/latobold.woff2') format('woff2'),
-    url('../../build/fonts/lato/latobold.woff') format('woff');
+    src: url('../fonts/lato/latobold.woff2') format('woff2'),
+    url('../fonts/lato/latobold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'lato';
-    src: url('../../build/fonts/lato/latoitalic.woff2') format('woff2'),
-    url('../../build/fonts/lato/latoitalic.woff') format('woff');
+    src: url('../fonts/lato/latoitalic.woff2') format('woff2'),
+    url('../fonts/lato/latoitalic.woff') format('woff');
     font-weight: italic;
     font-style: normal;
     font-display: swap;
@@ -53,8 +53,8 @@
 
 @font-face {
     font-family: 'Krinkes Decor PERSONAL USE';
-    src: url('../../build/fonts/Krinkes/KrinkesDecorPERSONAL.ttf') format('ttf'),
-    url('../../build/fonts/Krinkes/KrinkesDecorPERSONAL.ttf') format('ttf');
+    src: url('../fonts/Krinkes/KrinkesDecorPERSONAL.ttf') format('ttf'),
+    url('../fonts/Krinkes/KrinkesDecorPERSONAL.ttf') format('ttf');
     font-weight: italic;
     font-style: normal;
     font-display: swap;

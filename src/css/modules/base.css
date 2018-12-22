@@ -86,7 +86,8 @@ h1 {
     color: var(--color-primary);
 }
 
-template {
+a {
+    text-decoration: none;
 }
 
 .headers-h2 {
@@ -97,11 +98,11 @@ template {
 }
 
 .headers-h2::before{
-    content: url('../../build/img/header-decor.png');
+    content: url('../img/header-decor.png');
     margin-right: 80px;
 }
 
 .headers-h2::after{
-    content: url('../../build/img/header-decor.png');
+    content: url('../img/header-decor.png');
     margin-left: 80px;
 }
